@@ -1,5 +1,5 @@
 ## Artwork
 - You need [GIMP](https://www.gimp.org/downloads) to export .xcf to image
 - Parsast Projects [(Requires Google Sans font)](https://flutter.googlesource.com/gallery-assets/+archive/refs/heads/master/lib/fonts.tar.gz)
-- Parsast Projects Discussions [(Requires Google Sans font)](https://flutter.googlesource.com/gallery-assets/+archive/refs/heads/master/lib/fonts.tar.gz)
-- Parsast Projects Topic [(Requires Google Sans font)](https://flutter.googlesource.com/gallery-assets/+archive/refs/heads/master/lib/fonts.tar.gz)
+- Parsast Projects Discussions (Based on Parsast Projects Logo) [(Requires Google Sans font)](https://flutter.googlesource.com/gallery-assets/+archive/refs/heads/master/lib/fonts.tar.gz)
+- Parsast Projects Topic (Based on Parsast Projects Logo) [(Requires Google Sans font)](https://flutter.googlesource.com/gallery-assets/+archive/refs/heads/master/lib/fonts.tar.gz)
