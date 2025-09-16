@@ -1,2 +1,3 @@
 ## Artwork
-Parsast Projects [(Requires Google Sans font)](https://flutter.googlesource.com/gallery-assets/+archive/refs/heads/master/lib/fonts.tar.gz)
+- You need [GIMP](https://www.gimp.org/downloads) to export .xcf to image
+- Parsast Projects [(Requires Google Sans font)](https://flutter.googlesource.com/gallery-assets/+archive/refs/heads/master/lib/fonts.tar.gz)
